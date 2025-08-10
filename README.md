@@ -33,7 +33,7 @@ Create a `.env` file in the project root with the full path to your Cursor state
 Example for this machine (Windows):
 
 ```env
-DB_PATH=C:\Users\Abdulaziz\AppData\Roaming\Cursor\User\globalStorage\state.vscdb
+DB_PATH=C:\Users\YOUR_USERNAME\AppData\Roaming\Cursor\User\globalStorage\state.vscdb
 ```
 
 Tip: Back up the DB first:
